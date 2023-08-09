@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetGlideSlider>
+	<Name>GSlider0</Name>
+	<Priority>3000</Priority>
+	<Children />
+	<Back--Layer href="SliderBackground.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)"/>
+	<BackLayer href="../Textures/Exp.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)"/>
+	<FrontLayer href="" />
+	<textureMask href="" />
+	<pickMask href="" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Pos>0</Pos>
+			<Size>33</Size>
+			<HighPos>0</HighPos>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+			<Pos>20</Pos>
+			<HighPos>20</HighPos>
+			<Size>280</Size>
+		</Y>
+	</Placement>
+	<Visible>true</Visible>
+	<Enabled>true</Enabled>
+	<TransparentInput>false</TransparentInput>
+	<PickChildrenOnly>true</PickChildrenOnly>
+
+	<slider--Button href="ButtonSlider/ButtonSlider.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+	<sliderButton href="../_Button.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+
+	<moveArrangement>WIDGETS_ARRANGEMENT_T2B</moveArrangement>
+
+	<reactionChanged>CS_Changed</reactionChanged>
+
+	<stepsCount>256</stepsCount>
+
+	<discreteStep>20</discreteStep>
+</WidgetGlideSlider>

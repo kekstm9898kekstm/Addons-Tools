@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>30</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>			
+			<Size>23</Size>
+		</Y>
+	</Placement>
+	<IgnoreDblClick>true</IgnoreDblClick>
+	<Visible>true</Visible>
+	<Enabled>true</Enabled>
+	<TransparentInput>false</TransparentInput>
+	<Variants>
+		<Item>
+			<StateNormal>
+				<LayerMain href="ScrollThumb.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			</StateNormal>
+		</Item>
+	</Variants>
+</WidgetButton>

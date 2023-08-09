@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+	<Name>wb</Name>
+	<Header>
+		<isPrototype>true</isPrototype>
+	</Header>
+	<Priority>250</Priority>
+	<Placement>
+		<X>
+			<Size>20</Size>
+		</X>
+		<Y>
+			<Size>20</Size>
+		</Y>
+	</Placement>
+	<IgnoreDblClick>true</IgnoreDblClick>
+	<TextTag>button_label</TextTag>
+	<Variants>
+		<Item>
+			<FormatFileRef href="ButtonFormatHighlight.txt" />
+			<LayerHighlight href="ButtonBlueHighlight.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+			<PushedOffset x="-2" y="2" />
+			<StateNormal>
+				<LayerMain href="ButtonBlueNormal.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+				<FormatFileRef href="ButtonFormatNormal.txt" />
+			</StateNormal>
+			<StatePushed>
+				<LayerMain href="ButtonBluePressed.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+			</StatePushed>
+			<StateDisabled>
+				<LayerMain href="ButtonBlueDisabled.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+				<FormatFileRef href="ButtonFormatDisabled.txt" />
+			</StateDisabled>
+			<ReactionOnUp>true</ReactionOnUp>
+		</Item>
+	</Variants>
+	<TextStyle>
+		<Align>ALIGNY_MIDDLE</Align>
+	</TextStyle>
+</WidgetButton>

@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UIRelatedTextures>
+	<Items>
+
+
+
+		<Item>
+			<name>CheckBSpFrame</name>
+			<textureItem href="CheckBSpFrame.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ButtonBlueNormal</name>
+			<textureItem href="../Prototypes/ButtonBlue/ButtonBlueNormal.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+
+		<Item>
+			<name>BorderSilv1b</name>
+			<textureItem href="BorderSilv1b.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>iconUnknown</name>
+			<textureItem href="iconUnknown.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+
+		<Item>
+			<name>BorderSilv1</name>
+			<textureItem href="BorderSilv1.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>BorderSilv1f</name>
+			<textureItem href="BorderSilv1f.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+
+		<Item>
+			<name>BorderSilv2</name>
+			<textureItem href="BorderSilv2.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>BorderSilv2f</name>
+			<textureItem href="BorderSilv2f.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>droplet1</name>
+			<textureItem href="droplet1.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+
+		<Item>
+			<name>IMWorldChat</name>
+			<textureItem href="IMWorldChat.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+
+		<Item>
+			<name>Trumpet</name>
+			<textureItem href="Trumpet.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+
+		<Item>
+			<name>BorderLight</name>
+			<textureItem href="BorderLigh.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>MailIconHollow</name>
+			<textureItem href="MailIconHollow.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>MailIconOpened</name>
+			<textureItem href="MailIconOpened.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>MailIconUnread</name>
+			<textureItem href="MailIconUnread.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+
+		<Item>
+			<name>CoinCopper</name>
+			<textureItem href="CoinCopper.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CoinGold</name>
+			<textureItem href="CoinGold.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CoinSilver</name>
+			<textureItem href="CoinSilver.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+
+		<Item>
+			<name>hideth1B</name>
+			<textureItem href="hideth1B.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>hideth1</name>
+			<textureItem href="hideth1.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>SlotBlink</name>
+			<textureItem href="SlotBlink.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ItemMallBannerHighlight</name>
+			<textureItem href="ItemMallBannerHighlight.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CheckC0</name>
+			<textureItem href="CheckC0.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>Circle</name>
+			<textureItem href="Circle.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CircleBr</name>
+			<textureItem href="CircleBr.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CircleBr0</name>
+			<textureItem href="CircleBr0.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CircleBrW</name>
+			<textureItem href="CircleBrW.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CheckboxAnoSelectedHighlighted</name>
+			<textureItem href="CheckboxAnoSelectedHighlighted.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CheckboxAnoSelected</name>
+			<textureItem href="CheckboxAnoSelected.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CheckboxAnoNormalHighlighted</name>
+			<textureItem href="CheckboxAnoNormalHighlighted.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CheckboxAnoNormal</name>
+			<textureItem href="CheckboxAnoNormal.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ButtonNWhite</name>
+			<textureItem href="ButtonNWhite.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name></name>
+			<textureItem href=".(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ButtonNRed</name>
+			<textureItem href="ButtonNRed.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ButtonNGreen</name>
+			<textureItem href="ButtonNGreen.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ButtonNBlue</name>
+			<textureItem href="ButtonNBlue.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ButtonBlue</name>
+			<textureItem href="ButtonBlue.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+
+
+		<Item>
+			<name>PortalGreen</name>
+			<textureItem href="PortalGreen.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>PortalRed</name>
+			<textureItem href="PortalRed.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ContextUse</name>
+			<textureItem href="ContextUse.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>FrameStone1T2</name>
+			<textureItem href="FrameStone1T2.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>FrameMain2T2</name>
+			<textureItem href="FrameMain2T2.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>FrameBBlue2T2</name>
+			<textureItem href="FrameBBlue2T2.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>DeskTokenDeckGoldenT2-104</name>
+			<textureItem href="DeskTokenDeckGoldenT2-104.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+
+		<Item>
+			<name>FrameMain2</name>
+			<textureItem href="FrameMain2.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>FrameDeskCardBackL104</name>
+			<textureItem href="FrameDeskCardBackL104.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>FrameDeskCardBackL200</name>
+			<textureItem href="FrameDeskCardBackL200.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>FrameBlueH</name>
+			<textureItem href="FrameBlueH.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name></name>
+			<textureItem href=".(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ButtonDeskCardBackL</name>
+			<textureItem href="ButtonDeskCardBackL.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ButtonBlueO</name>
+			<textureItem href="ButtonBlueO.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+
+		<Item>
+			<name>AddGreenNormal</name>
+			<textureItem href="AddGreenNormal.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>AddRedNormal</name>
+			<textureItem href="AddRedNormal.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>AngarFlayButton</name>
+			<textureItem href="AngarFlayButton.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>BonusItem</name>
+			<textureItem href="BonusItem.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ButtonEmpty</name>
+			<textureItem href="ButtonEmpty.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ColorBack</name>
+			<textureItem href="ColorBack.(UITextureElement).xdb#xpointer(/UITextureElement)" />
+		</Item>
+		<Item>
+			<name>ColorBox</name>
+			<textureItem href="ColorBox.(UITextureElement).xdb#xpointer(/UITextureElement)" />
+		</Item>
+		<Item>
+			<name>ContextTooltipStatStar</name>
+			<textureItem href="ContextTooltipStatStar.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CornerCrossHighlight</name>
+			<textureItem href="CornerCrossHighlight.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CornerCrossNormal</name>
+			<textureItem href="CornerCrossNormal.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CornerCrossPressed</name>
+			<textureItem href="CornerCrossPressed.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CycleLeft</name>
+			<textureItem href="CycleLeft.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CyclePointer</name>
+			<textureItem href="CyclePointer.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CycleRight</name>
+			<textureItem href="CycleRight.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>DeskCardFace</name>
+			<textureItem href="DeskCardFace.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>DeskCardFace-104</name>
+			<textureItem href="DeskCardFace-104.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>DeskInspectNormal-57</name>
+			<textureItem href="DeskInspectNormal-57.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>DeskInspectNormal-104</name>
+			<textureItem href="DeskInspectNormal-104.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>DeskInspectNormalF-57</name>
+			<textureItem href="DeskInspectNormalF-57.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>DeskInspectNormalF-104</name>
+			<textureItem href="DeskInspectNormalF-104.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>DeskSearchNormal-57</name>
+			<textureItem href="DeskSearchNormal-57.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>DeskSearchNormal-104</name>
+			<textureItem href="DeskSearchNormal-104.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>DeskTokenDeckGolden-64</name>
+			<textureItem href="DeskTokenDeckGolden-64.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>DeskTokenDeckGolden-104</name>
+			<textureItem href="DeskTokenDeckGolden-104.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>empty</name>
+			<textureItem href="empty.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>Empty_Tiled</name>
+			<textureItem href="Empty_Tiled.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>Exp</name>
+			<textureItem href="Exp.(UITextureElement).xdb#xpointer(/UITextureElement)" />
+		</Item>
+		<Item>
+			<name>FastButton</name>
+			<textureItem href="FastButton.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>FrameRed</name>
+			<textureItem href="FrameRed.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>GoldenCorner</name>
+			<textureItem href="GoldenCorner.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>Ice4</name>
+			<textureItem href="Ice4.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>MarkHighlight</name>
+			<textureItem href="MarkHighlight.(UITextureElement).xdb#xpointer(/UITextureElement)" />
+		</Item>
+
+		<Item>
+			<name>NamePlateFrame</name>
+			<textureItem href="NamePlateFrame.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>NamePlateFrameFR</name>
+			<textureItem href="NamePlateFrameFR.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>NamePlateFrameFR-104</name>
+			<textureItem href="NamePlateFrameFR-104.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>NoMark</name>
+			<textureItem href="NoMark.(UITextureElement).xdb#xpointer(/UITextureElement)" />
+		</Item>
+		<Item>
+			<name>RacePlateSelected</name>
+			<textureItem href="RacePlateSelected.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>RacePlateSelectedFR</name>
+			<textureItem href="RacePlateSelectedFR.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>RacePlateSelectedFR-104</name>
+			<textureItem href="RacePlateSelectedFR-104.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>Shield</name>
+			<textureItem href="Shield.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>TitanToken</name>
+			<textureItem href="TitanToken.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>TokenBattleStation</name>
+			<textureItem href="TokenBattleStation.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>Will</name>
+			<textureItem href="Will.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+
+
+		<Item>
+			<name>ButtonB</name>
+			<textureItem href="ButtonB.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ButtonB1</name>
+			<textureItem href="ButtonB1.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ButtonBBrown</name>
+			<textureItem href="ButtonBBrown.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ButtonRed</name>
+			<textureItem href="ButtonRed.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>FrameBBlue2</name>
+			<textureItem href="FrameBBlue2.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>FrameBW1</name>
+			<textureItem href="FrameBW1.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>FrameCardFaceGold</name>
+			<textureItem href="FrameCardFaceGold.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>FrameStone1</name>
+			<textureItem href="FrameStone1.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>Frame104</name>
+			<textureItem href="Frame104.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+
+
+
+		<--V>Prototypes/Button/</--V>
+		<Item>
+			<name>ButtonRegular1-Disabled</name>
+			<textureItem href="../Prototypes/Button/ButtonRegularDisabled.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ButtonRegular1-Highlighted</name>
+			<textureItem href="../Prototypes/Button/ButtonRegularHighlighted.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ButtonRegular1-Normal</name>
+			<textureItem href="../Prototypes/Button/ButtonRegularNormal.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>ButtonRegular1-Pressed</name>
+			<textureItem href="../Prototypes/Button/ButtonRegularPressed.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+
+		<--V>Prototypes/CheckBoxStone/</--V>
+		<Item>
+			<name>CheckBox1-Stone</name>
+			<textureItem href="../Prototypes/CheckBoxStone/CheckBoxStone.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CheckBox1-StoneChecked</name>
+			<textureItem href="../Prototypes/CheckBoxStone/CheckBoxStoneChecked.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>CheckBox1-StoneHighlight</name>
+			<textureItem href="../Prototypes/CheckBoxStone/CheckBoxStoneHighlight.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+
+		<--V>Prototypes/MenuItem/</--V>
+		<Item>
+			<name>ButtonRegular2-Highlighted</name>
+			<textureItem href="../Prototypes/MenuItem/ButtonRegularHighlighted.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+
+		<Item>
+			<name>Header-Original</name>
+			<textureItem href="../dscHeaderOrig/Texture/Header.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+
+
+	</Items>
+
+<--V>Empty_Tiled - as nil fon<--V>
+<--V>Please, Insert by name sort - as in folder<--V>
+<--V>Tiled textures inserted here - crash a client!</--v>
+
+</UIRelatedTextures>

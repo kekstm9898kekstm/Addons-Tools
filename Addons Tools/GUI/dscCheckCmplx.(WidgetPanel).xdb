@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>dscCheckCmplx</Name>
+	<BackLayer href="_PanelEmpty.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+
+	<Children>
+		<Item href="_Panel.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="_Check.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+	</Children>
+
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>45</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>45</Size>
+		</Y>
+	</Placement>
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+	<Visible>false</Visible>
+</WidgetPanel>

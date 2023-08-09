@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UITexture>
+	<mipSW>-1</mipSW>
+	<mipsNumber>1</mipsNumber>
+	<generateMipChain>false</generateMipChain>
+	<type>DXT1</type>
+	<width>128</width>
+	<height>128</height>
+	<realWidth>84</realWidth>
+	<realHeight>84</realHeight>
+	<disableLODControl>false</disableLODControl>
+	<alphaTex>true</alphaTex>
+	<binaryFileSize>3033</binaryFileSize>
+	<binaryFile href="DeskTokenDeckGolden-64.(UITexture).bin" />
+	<binaryFileSize2>0</binaryFileSize2>
+	<binaryFile2 href="" />
+	<sourceFile href="DeskTokenDeckGolden-64.tga" />
+	<sourceFileCRC>1652378098</sourceFileCRC>
+	<wrap>false</wrap>
+	<LocalizationInfo />
+</UITexture>

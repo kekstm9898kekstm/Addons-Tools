@@ -1,0 +1,4 @@
+<WidgetLayerSimpleTexture>
+	<Color>0xff0000ff</Color>
+	<BlendEffect>BLEND_EFFECT_ALPHABLND</BlendEffect>
+</WidgetLayerSimpleTexture>

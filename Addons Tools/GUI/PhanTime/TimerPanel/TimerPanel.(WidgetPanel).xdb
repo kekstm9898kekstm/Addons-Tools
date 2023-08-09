@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>TimerPanel</Name>
+	<Back-Layer href="../MainFrame.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+	<Children>
+		<Item href="TimerText.(WidgetTextView).xdb#xpointer(/WidgetTextView)" />
+		<Item href="Buttons/ButtonPause/wbPauseButton.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="Buttons/ButtonPause/wbPauseActiveButton.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+	</Children>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>120</Size>
+			<Pos>0</HighPos>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_HIGH</Align>
+			<Size>20</Size>
+		</Y>
+	</Placement>
+</WidgetPanel>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetScrollableContainer>
+	<Name>dscContainer</Name>
+	<Priority>0</Priority>
+
+<---V>BackLayer -- он кажись передается в БОРДЕР поэтому смена его на лету не особо чего дает</---V>
+	<BackLayer href="MainFrame.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+	<--Back_Layer href="" />
+	<--Back_Layer href="Textures/Empty.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)"/ >
+
+
+	<--Placement>
+		<X>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+			<Sizing>WIDGET_SIZING_INTERNAL</Sizing>
+			<Pos>20</Pos>
+			<HighPos>20</HighPos>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+			<Sizing>WIDGET_SIZING_INTERNAL</Sizing>
+			<Pos>12</Pos>
+			<HighPos>12</HighPos>
+		</Y>
+	</--Placement>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+		</Y>
+	</Placement>
+<---V>border - обязателен - в него и будет каткаься текст. текстуру у бордера и надо ставить какую нужно?</---V>
+	<border href="_ContainerBorder.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+	<!--<tableStep>5</tableStep>-->
+	<elementsInterval>0</elementsInterval>
+	<PickChildrenOnly>true</PickChildrenOnly>
+
+<---V>его нельзя делать невидимым или по Описателю его создавать виджет</---V>
+	<Visible>true</Visible>
+
+
+</WidgetScrollableContainer>

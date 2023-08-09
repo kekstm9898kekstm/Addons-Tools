@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+  <Name>dscToggleButton</Name>
+  <Variants>
+    <Item>
+      <TextFileRef href="Text-alignx-center" />
+      <LayerHighlight href="/Mods/SampleCommon/Button/ButtonRegularHighlighted.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+      <StateNormal>
+         <LayerMain href="/Mods/SampleCommon/Button/ButtonRegularNormal.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+         <FormatFileRef href="FormatButtonToggle_StateNormal.txt" />
+      </StateNormal>
+      <Reaction>mouse_left_click</Reaction>
+      <ReactionOnUp>true</ReactionOnUp>
+    </Item>
+    <Item>
+      <TextFileRef href="Text-alignx-center" />
+      <LayerHighlight href="/Mods/SampleCommon/Button/ButtonRegularHighlighted.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+      <StateNormal>
+         <LayerMain href="/Mods/SampleCommon/Button/ButtonRegularPressed.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+         <FormatFileRef href="FormatButtonToggle_StatePushed.txt" />
+      </StateNormal>
+      <Reaction>mouse_left_click</Reaction>
+      <ReactionOnUp>true</ReactionOnUp>
+    </Item>
+  </Variants>
+
+  <Visible>false</Visible>
+  <reactionOnPointing>mouse_over</reactionOnPointing>
+
+</WidgetButton>

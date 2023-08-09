@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>dscColorSliderPanel</Name>
+	<Priority>0</Priority>
+	<Children>
+		<Item href="ColorSlider/ColorSlider.(WidgetDiscreteSlider).xdb#xpointer(/WidgetDiscreteSlider)" />
+	</Children>
+	<Placement>
+		<X>
+			<Pos>0</Pos>
+			<Size>32</Size>
+		</X>
+		<Y>
+			<Pos>0</Pos>
+			<Size>276</Size>
+		</Y>
+	</Placement>
+	<Visible>false</Visible>
+
+	<Enabled>true</Enabled>
+	<TransparentInput>false</TransparentInput>
+	<PickChildrenOnly>true</PickChildrenOnly>
+	<PickObjectsOnly>true</PickObjectsOnly>
+</WidgetPanel>

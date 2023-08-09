@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UIAddon>
+  <AutoStart>true</AutoStart>
+  <Description>Addons Tools</Description>
+
+  <Forms>
+    <Item>
+      <Form href="GUI/MainForm.(WidgetForm).xdb#xpointer(/WidgetForm)"/>
+      <Id>MainForm</Id>
+    </Item>
+  </Forms>
+
+  <MainFormId>MainForm</MainFormId>
+  <Name>AddonsTools</Name>
+
+  <ScriptFileRefs>
+
+    <Item href="/Mods/SampleCommon/SampleAddonBase.lua"/>
+
+    <Item href="Scripts/Fix9.lua"/>
+
+    <Item href="Scripts/ScriptLIB.lua"/>
+
+    <Item href="Scripts/LibDnD.lua"/>
+
+    <Item href="Scripts/menuCls3.lua"/>
+
+    <Item href="Locales/Locales.lua"/>
+
+    <Item href="Scripts/LocalesLIB.lua"/>
+
+    <Item href="Scripts/Globals.lua"/>
+
+    <Item href="Scripts/PhanTime.lua"/>
+
+    <Item href="Scripts/Textures.lua"/>
+
+    <Item href="Scripts/AddonsMenu.lua"/>
+
+    <Item href="Scripts/AddonsTools.lua"/>
+
+  </ScriptFileRefs>
+
+
+  <textures href="GUI/Textures/!Textures.(UIRelatedTextures).xdb"/>
+
+
+  <author>icreator</author>
+  <revision>84</revision>
+  <update>2014-07-31 10:38:00</update>
+
+<addon_name>AddonsTools</addon_name><addon_date>1513437041</addon_date><addon_link>https://alloder.pro/files/file/4-addonstools/?do=download&amp;r=24252&amp;confirm=1&amp;t=1&amp;csrfKey=</addon_link><localizedNameFileRef href="name.txt"/><localizedDescFileRef href="desc.txt"/></UIAddon>

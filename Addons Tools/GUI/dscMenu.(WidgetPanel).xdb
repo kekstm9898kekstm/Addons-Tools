@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>dscMenu</Name>
+
+	<BackLayer href="Frame104.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>45</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>45</Size>
+		</Y>
+	</Placement>
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+	<Visible>false</Visible>
+</WidgetPanel>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>dscBar</Name>
+	<Priority>3</Priority>
+	<BackLayer href="Textures/Exp.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)"/>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+		</Y>
+	</Placement>
+
+	<TransparentInput>true</TransparentInput>
+
+	<Visible>false</Visible>
+
+</WidgetPanel>

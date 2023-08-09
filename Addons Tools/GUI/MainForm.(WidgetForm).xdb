@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetForm>
+	<Name>AddonsTools</Name>
+	<Priority>8500</Priority>
+	<Children>
+		<Item href="dscBorder.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="dscBorder200.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="dscButton.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="dscButtonBlue.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+
+		<Item href="dscButton2A.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="dscButton2C.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="dscButtonCornerCross.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="dscButtonCornerBlue.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="dscButtonHide.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="dscButtonPan.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="dscButtonScaled.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="dscToggleButton.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="dscCheck.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+
+		<Item href="Prototypes/CornerQuestion/dscCornerQuestion.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="Prototypes/CheckBSp/dscCheckBPs.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="Prototypes/Header021/dscHeader021.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+
+		<Item href="Prototypes/BtnVars6Star/dscBtnVars6Star.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="Prototypes/BtnPopUpDownGreen/dscBtnPopUpDownGreen.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="Prototypes/ScrollSliderBtnHorisGreen/dscScrollSliderBtnHorisGreen.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+
+		<Item href="dscCheckAno.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="dscCheckTele.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="dscCheckCmplx.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="dscEditLine.(WidgetEditLine).xdb#xpointer(/WidgetEditLine)" />
+		<Item href="dscEditLineNum.(WidgetEditLine).xdb#xpointer(/WidgetEditLine)" />
+		<Item href="dscMenu200.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="dscMenu.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="dscMenuItem.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="dscMenuItemBtn.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="dscText.(WidgetTextView).xdb#xpointer(/WidgetTextView)" />
+		<Item href="dscHeaderOrig/dscHeaderOrig.(WidgetTextView).xdb#xpointer(/WidgetTextView)" />
+		<Item href="dscPanel.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="dscPanelEmpty.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="dscPanelER.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="dscPanelReact.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="dscBar.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="dscBarHP.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="dscTextContainer.(WidgetTextContainer).xdb#xpointer(/WidgetTextContainer)" />
+		<Item href="dscContainer.(WidgetScrollableContainer).xdb#xpointer(/WidgetScrollableContainer)" />
+
+		<Item href="dscGS--crollBar.(WidgetGlideScrollBar).xdb#xpointer(/WidgetGlideScrollBar)" />
+
+		<Item href="dscGSliderPanel.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+
+		<Item href="PhanTime/MainPanel.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+
+		<Item href="dscColorPanel.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="dscColorSliderPanel.(WidgetPanel).xdb#xpointer(/WidgetPanel)"/>
+		<Item href="dscIconLight.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+
+
+	</Children>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+		</Y>
+	</Placement>
+	<PickChildrenOnly>true</PickChildrenOnly>
+</WidgetForm>

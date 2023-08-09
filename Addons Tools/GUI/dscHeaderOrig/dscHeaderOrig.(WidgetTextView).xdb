@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetTextView>
+	<Name>dscHeaderOrig</Name>
+	<Priority>16</Priority>
+	<BackLayer href="Texture/Header.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>50</Size>
+		</X>
+		<Y>	
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>44</Size>
+		</Y>
+	</Placement>
+	<FormatFileRef href="Header.txt" />
+	<TransparentInput>false</TransparentInput>
+	<Visible>false</Visible>
+
+</WidgetTextView>

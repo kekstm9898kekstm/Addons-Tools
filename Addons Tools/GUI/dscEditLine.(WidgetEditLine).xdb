@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetEditLine>
+	<Name>dscEditLine</Name>
+	<Priority>100</Priority>
+	<Children />
+	<BackLayer href="" />
+	<FrontLayer href="" />
+	<textureMask href="" />
+	<pickMask href="" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+		</Y>
+	</Placement>
+	<Visible>false</Visible>
+	<Enabled>true</Enabled>
+
+	<TabOrder>2</TabOrder>
+
+	<bindSections />
+	<TransparentInput>false</TransparentInput>
+	<PickChildrenOnly>false</PickChildrenOnly>
+	<IgnoreDblClick>false</IgnoreDblClick>
+	<fade>1</fade>
+	<Cursor1Layer href="textures/EditLine.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+	<Cursor2Layer href="textures/EditLine2.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+	<CursorWidth>2</CursorWidth>
+	<CursorChangeTimeMs>500</CursorChangeTimeMs>
+
+	<reactionOnPointing></reactionOnPointing>
+
+	<ReactionEsc>on_esc</ReactionEsc>
+	<ReactionEnter>on_enter</ReactionEnter>
+	<ReactionChanged />
+	<TextStyle>
+		<multiline>false</multiline>
+		<wrapText>false</wrapText>
+		<showClippedSymbol>false</showClippedSymbol>
+		<showClippedLine>true</showClippedLine>
+		<lineSpacing>0</lineSpacing>
+		<ellipsis>true</ellipsis>
+		<Align>ALIGNY_MIDDLE</Align>
+	</TextStyle>
+	<isPassword>false</isPassword>
+
+	<maxSymbolsCount></maxSymbolsCount>
+
+	<filterAlias />
+
+		<globalClassName>class</<globalClassName>
+
+	<selectionClassName />
+	<selectionLayer href="textures/EditLineSelect.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+
+	<UITextFilter>
+	  <ranges>
+	    <Item>
+	    </Item>
+	  </ranges>
+
+	  <filter></filter>
+
+	  <isAllowObject>false</isAllowObject>
+
+	</UITextFilter>
+
+</WidgetEditLine>

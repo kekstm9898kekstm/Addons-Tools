@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetLayerTiledTexture>
+	<Name>wltt</Name>
+	<Color>0xffffffff</Color>
+	<Grayed>false</Grayed>
+	<BlendEffect>BLEND_EFFECT_ALPHABLND</BlendEffect>
+	<flatPlacement>false</flatPlacement>
+	<textureItem href="ButtonRegularNormal.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+	<Layout>
+		<LeftX>32</LeftX>
+		<MiddleX>64</MiddleX>
+		<RightX>32</RightX>
+		<TopY>14</TopY>
+		<MiddleY>2</MiddleY>
+		<BottomY>14</BottomY>
+	</Layout>
+</WidgetLayerTiledTexture>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+	<Name>dscBtnPopUpDownGreen</Name>
+	<FrontLayer href="" />
+	<textureMask href="" />
+	<pickMask href="" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Sizing>WIDGET_SIZING_DEFAULT</Sizing>
+			<Pos>0</Pos>
+			<HighPos>0</HighPos>
+			<Size>32</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Sizing>WIDGET_SIZING_DEFAULT</Sizing>
+			<Pos>0</Pos>
+			<HighPos>0</HighPos>
+			<Size>32</Size>
+		</Y>
+	</Placement>
+
+
+	<Enabled>true</Enabled>
+	<TabOrder>0</TabOrder>
+	<bindSections />
+	<TransparentInput>false</TransparentInput>
+	<PickChildrenOnly>false</PickChildrenOnly>
+	<IgnoreDblClick>false</IgnoreDblClick>
+	<fade>1</fade>
+	<TextTag />
+	<pushingBindSections />
+	<Variants>
+
+		<Item>
+			<LayerHighlight href="ButtonPopHighlight.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+
+			<StateNormal>
+				<LayerMain href="ButtonPopUpNormal.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			</StateNormal>
+
+			<StatePushed>
+				<LayerMain href="ButtonPopUpPressed.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			</StatePushed>
+
+			<StateHighlighted>
+			</StateHighlighted>
+
+			<StatePushedHighlighted>
+			</StatePushedHighlighted>
+
+			<StateDisabled>
+			</StateDisabled>
+
+	<ReactionOnUp>true</ReactionOnUp>
+
+	<Reaction>mouse_left_click</Reaction>
+	<ReactionRightClick>mouse_right_click</ReactionRightClick>
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+
+			<soundOver href="" />
+			<soundPress href="" />
+
+		</Item>
+		<Item>
+
+			<LayerHighlight href="ButtonPopHighlight.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+
+			<StateNormal>
+				<LayerMain href="ButtonPopDownNormal.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			</StateNormal>
+
+			<StatePushed>
+				<LayerMain href="ButtonPopDownPressed.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			</StatePushed>
+
+			<StateHighlighted>
+			</StateHighlighted>
+
+			<StatePushedHighlighted>
+			</StatePushedHighlighted>
+
+			<StateDisabled>
+			</StateDisabled>
+
+	<ReactionOnUp>true</ReactionOnUp>
+
+	<Reaction>mouse_left_click</Reaction>
+	<ReactionRightClick>mouse_right_click</ReactionRightClick>
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+
+			<soundOver href="" />
+			<soundPress href="" />
+		</Item>
+
+
+	</Variants>
+	<TextStyle>
+		<multiline>false</multiline>
+		<wrapText>false</wrapText>
+		<showClippedSymbol>false</showClippedSymbol>
+		<showClippedLine>true</showClippedLine>
+		<lineSpacing>0</lineSpacing>
+		<ellipsis>false</ellipsis>
+		<Align>ALIGNY_DEFAULT</Align>
+	</TextStyle>
+	<allowDisabledReactionOver>false</allowDisabledReactionOver>
+	<useDefaultSounds>true</useDefaultSounds>
+
+	<Visible>false</Visible>
+
+</WidgetButton>

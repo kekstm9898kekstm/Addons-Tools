@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UITexture>
+	<mipSW>-1</mipSW>
+	<mipsNumber>1</mipsNumber>
+	<generateMipChain>false</generateMipChain>
+	<type>DXT1</type>
+	<width>16</width>
+	<height>16</height>
+	<realWidth>15</realWidth>
+	<realHeight>15</realHeight>
+	<disableLODControl>false</disableLODControl>
+	<alphaTex>true</alphaTex>
+	<binaryFileSize>59</binaryFileSize>
+	<binaryFile href="ButtonPauseNormal.(UITexture).bin" />
+	<sourceFile href="ButtonPauseNormal.tga" />
+	<sourceFileCRC>-1844024698</sourceFileCRC>
+	<wrap>false</wrap>
+	<LocalizationInfo />
+	<inheritedSourceFile href="" />
+</UITexture>

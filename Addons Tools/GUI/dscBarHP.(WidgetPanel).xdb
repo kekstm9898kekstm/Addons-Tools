@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>dscBarHP</Name>
+	<Scaling>true</Scaling>
+	<Priority>0</Priority>
+	<Children>
+		<Item href="dscBar.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+	</Children>
+	<BackLayer href="Textures/Exp.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)"/>
+
+	<TransparentInput>true</TransparentInput>
+	<PickChildrenOnly>true</PickChildrenOnly>
+
+	<Visible>false</Visible>
+
+</WidgetPanel>

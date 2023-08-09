@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>dscPanel</Name>
+	<BackLayer href=""/ >
+	<FrontLayer href="" />
+	<Visible>false</Visible>
+
+	<TransparentInput>false</TransparentInput>
+	<PickChildrenOnly>true</PickChildrenOnly>
+
+	<forceReactionOnPointing>false</forceReactionOnPointing>
+
+</WidgetPanel>

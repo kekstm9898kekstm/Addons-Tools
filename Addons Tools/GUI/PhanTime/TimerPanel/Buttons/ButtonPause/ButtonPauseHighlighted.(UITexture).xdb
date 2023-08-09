@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UITexture>
+	<mipSW>-1</mipSW>
+	<mipsNumber>1</mipsNumber>
+	<generateMipChain>false</generateMipChain>
+	<type>DXT1</type>
+	<width>16</width>
+	<height>16</height>
+	<realWidth>15</realWidth>
+	<realHeight>15</realHeight>
+	<disableLODControl>false</disableLODControl>
+	<alphaTex>true</alphaTex>
+	<binaryFileSize>58</binaryFileSize>
+	<binaryFile href="ButtonPauseHighlighted.(UITexture).bin" />
+	<sourceFile href="ButtonPauseHighlighted.tga" />
+	<sourceFileCRC>1049266550</sourceFileCRC>
+	<wrap>false</wrap>
+	<LocalizationInfo />
+	<inheritedSourceFile href="" />
+</UITexture>

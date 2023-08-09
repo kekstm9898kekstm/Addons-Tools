@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+	<Name>dscCheckTele</Name>
+	<Header>
+		<Prototype href="Prototypes/CheckBoxTele/CheckBoxTele.Prototype.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+	</Header>
+	<Visible>false</Visible>
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+</WidgetButton>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>dscPanelER</Name>
+	<BackLayer href="_PanelEmpty.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)"/ >
+	<FrontLayer href="" />
+	<Visible>false</Visible>
+
+	<Reaction>mouse_left_click</Reaction>
+	<ReactionRightClick>mouse_right_click</ReactionRightClick>
+	<reactionDblClick>mouse_double_click</reactionDblClick>
+	<IgnoreDblClick>false</IgnoreDblClick>
+
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+
+	<forceReactionOnPointing>true</forceReactionOnPointing>
+
+	<PickChildrenOnly>true</PickChildrenOnly>
+
+</WidgetPanel>

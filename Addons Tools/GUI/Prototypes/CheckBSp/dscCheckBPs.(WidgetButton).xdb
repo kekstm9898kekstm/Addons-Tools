@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+	<Name>dscCheckBPs</Name>
+	<FrontLayer href="" />
+	<textureMask href="" />
+	<pickMask href="" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Sizing>WIDGET_SIZING_DEFAULT</Sizing>
+			<Pos>0</Pos>
+			<HighPos>0</HighPos>
+			<Size>54</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Sizing>WIDGET_SIZING_DEFAULT</Sizing>
+			<Pos>0</Pos>
+			<HighPos>0</HighPos>
+			<Size>54</Size>
+		</Y>
+	</Placement>
+
+
+	<Enabled>true</Enabled>
+	<TabOrder>0</TabOrder>
+	<bindSections />
+	<TransparentInput>false</TransparentInput>
+	<PickChildrenOnly>false</PickChildrenOnly>
+	<IgnoreDblClick>false</IgnoreDblClick>
+	<fade>1</fade>
+	<TextTag />
+	<pushingBindSections />
+	<Variants>
+		<Item>
+			<TextFileRef href="" />
+
+			<Layer-Highlight href="CheckBSpNormHi.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			<StateNormal>
+				<FormatFileRef href="" />
+				<LayerMain href="CheckBSpNorm.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			</StateNormal>
+			<StatePushed>
+				<FormatFileRef href="" />
+				<LayerMain href="CheckBSpPressed.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			</StatePushed>
+
+			<StateHighlighted>
+				<LayerMain href="CheckBSpNormHi.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+				<FormatFileRef href="" />
+			</StateHighlighted>
+			<StatePushedHighlighted>
+				<LayerMain href="CheckBSpNormOn.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+				<FormatFileRef href="" />
+			</StatePushedHighlighted>
+			<StateDisabled>
+				<FormatFileRef href="" />
+				<LayerMain href="" />
+			</StateDisabled>
+
+	<Reaction>mouse_left_click</Reaction>
+	<ReactionRightClick>mouse_right_click</ReactionRightClick>
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+
+			<soundOver href="" />
+			<soundPress href="" />
+
+		</Item>
+		<Item>
+			<TextFileRef href="" />
+
+			<Laye-rHighlight href="CheckBSpNormOnHi.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			<StateNormal>
+				<FormatFileRef href="" />
+				<LayerMain href="CheckBSpNormOn.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			</StateNormal>
+			<StatePushed>
+				<FormatFileRef href="" />
+				<LayerMain href="CheckBSpNormHi.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			</StatePushed>
+
+
+			<StateHighlighted>
+				<LayerMain href="CheckBSpNormOnHi.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+				<FormatFileRef href="" />
+			</StateHighlighted>
+			<StatePushedHighlighted>
+				<LayerMain href="CheckBSpNorm.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+				<FormatFileRef href="" />
+			</StatePushedHighlighted>
+			<StateDisabled>
+				<LayerMain href="" />
+				<FormatFileRef href="" />
+			</StateDisabled>
+
+	<Reaction>mouse_left_click</Reaction>
+	<ReactionRightClick>mouse_right_click</ReactionRightClick>
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+
+			<soundOver href="" />
+			<soundPress href="" />
+		</Item>
+	</Variants>
+	<TextStyle>
+		<multiline>false</multiline>
+		<wrapText>false</wrapText>
+		<showClippedSymbol>false</showClippedSymbol>
+		<showClippedLine>true</showClippedLine>
+		<lineSpacing>0</lineSpacing>
+		<ellipsis>false</ellipsis>
+		<Align>ALIGNY_DEFAULT</Align>
+	</TextStyle>
+	<allowDisabledReactionOver>false</allowDisabledReactionOver>
+	<useDefaultSounds>true</useDefaultSounds>
+
+	<Rea-ction>mouse_left_click</Reaction>
+	<Rea-ctionRightClick>mouse_right_click</ReactionRightClick>
+	<rea-ctionOnPointing>mouse_over</reactionOnPointing>
+
+	<Visible>false</Visible>
+
+</WidgetButton>

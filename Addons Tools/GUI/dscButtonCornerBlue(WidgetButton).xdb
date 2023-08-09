@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+	<Name>dscButtonCornerBlue</Name>
+	<BackLayer href="Textures/GoldenCorner.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_HIGH</Align>
+			<HighPos>1</HighPos>
+			<Size>37</Size>
+		</X>
+		<Y>
+			<Size>37</Size>
+		</Y>
+	</Placement>
+	<IgnoreDblClick>true</IgnoreDblClick>
+	<Variants>
+		<Item>
+			<LayerHighlight href="Textures/CornerBlueHighlight.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+			<StateNormal>
+				<LayerMain href="Textures/CornerBlueNormal.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+			</StateNormal>
+			<StatePushed>
+				<LayerMain href="Textures/CornerBluePressed.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+			</StatePushed>
+			<Reaction>mouse_left_click</Reaction>
+			<ReactionRightClick>mouse_right_click</ReactionRightClick>
+			<ReactionOnUp>true</ReactionOnUp>
+		</Item>
+	</Variants>
+
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+
+	<Visible>false</Visible>
+
+</WidgetButton>

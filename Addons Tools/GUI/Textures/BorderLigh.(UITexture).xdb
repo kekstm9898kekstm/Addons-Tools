@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UITexture>
+	<mipSW>-1</mipSW>
+	<mipsNumber>1</mipsNumber>
+	<generateMipChain>false</generateMipChain>
+	<type>DXT5</type>
+	<width>128</width>
+	<height>128</height>
+	<realWidth>94</realWidth>
+	<realHeight>94</realHeight>
+	<disableLODControl>false</disableLODControl>
+	<alphaTex>true</alphaTex>
+	<binaryFileSize>1212</binaryFileSize>
+	<binaryFile href="BorderLigh.(UITexture).bin" />
+	<binaryFileSize2>0</binaryFileSize2>
+	<binaryFile2 href="" />
+	<sourceFile href="BorderLigh.tga" />
+	<sourceFileCRC>1869858836</sourceFileCRC>
+	<wrap>false</wrap>
+	<LocalizationInfo />
+</UITexture>

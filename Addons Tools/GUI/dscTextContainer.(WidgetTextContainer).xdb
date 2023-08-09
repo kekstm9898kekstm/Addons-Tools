@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetTextContainer>
+	<Name>dscTextContainer</Name>
+	<Priority>0</Priority>
+
+<---V>BackLayer -- он кажись передается в БОРДЕР поэтому смена его на лету не особо чего дает</---V>
+<---V>поэтому лучше всего рамку делать в родительсой панели а в нее вставлять этот котейнер</---V>
+	<BackLayer href="" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+		</Y>
+	</Placement>
+	<widgetsArrangement>WIDGETS_ARRANGEMENT_T2B</widgetsArrangement>
+	<elementsInterval>0</elementsInterval>
+<---V>border - обязателен - в него и будет каткаься текст. текстуру у бордера и надо ставить какую нужно?</---V>
+	<border href="ContainerBorder.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+
+<---V>его нельзя делать невидимым или по Описателю его создавать виджет</---V>
+	<Visible>true</Visible>
+
+
+</WidgetTextContainer>

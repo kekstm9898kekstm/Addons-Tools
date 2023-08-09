@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+	<Header>
+		<isPrototype>true</isPrototype>
+	</Header>
+	<Priority>256</Priority>
+	<Placement>
+		<X>
+			<Size>25</Size>
+		</X>
+		<Y>
+			<Size>25</Size>
+		</Y>
+	</Placement>
+	<IgnoreDblClick>true</IgnoreDblClick>
+	<Variants>
+		<Item>
+			<LayerHighlight href="Button2Highlight.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			<StateNormal>
+				<LayerMain href="TeleRed.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			</StateNormal>
+			<StatePushed>
+				<LayerMain href="TeleGreen.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			</StatePushed>
+			<ReactionOnUp>true</ReactionOnUp>
+			<Reaction>mouse_left_click</Reaction>
+			<ReactionRightClick>mouse_right_click</ReactionRightClick>
+		</Item>
+		<Item>
+			<LayerHighlight href="Button2Highlight.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			<StateNormal>
+				<LayerMain href="TeleGreen.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			</StateNormal>			
+			<ReactionOnUp>true</ReactionOnUp>
+			<Reaction>mouse_left_click</Reaction>
+			<ReactionRightClick>mouse_right_click</ReactionRightClick>
+		</Item>
+	</Variants>
+</WidgetButton>

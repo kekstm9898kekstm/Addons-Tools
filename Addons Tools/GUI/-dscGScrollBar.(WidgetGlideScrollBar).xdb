@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetGlideScrollBar>
+	<Name>GScrollBar</Name>
+	<Priority>0</Priority>
+	<Children />
+	<BackLayer href="Frame104.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+	<FrontLayer href="" />
+	<textureMask href="" />
+	<pickMask href="" />
+	<Placement>
+		<QuantumScale>false</QuantumScale>
+		<sizingWidget href="" />
+		<sizingWidgets />
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Sizing>WIDGET_SIZING_DEFAULT</Sizing>
+			<Pos>0</Pos>
+			<HighPos>0</HighPos>
+			<Size>256</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Sizing>WIDGET_SIZING_DEFAULT</Sizing>
+			<Pos>0</Pos>
+			<HighPos>0</HighPos>
+			<Size>60</Size>
+		</Y>
+	</Placement>
+	<Visible>true</Visible>
+	<Enabled>true</Enabled>
+	<TabOrder>0</TabOrder>
+	<bindSections />
+	<TransparentInput>false</TransparentInput>
+	<PickChildrenOnly>false</PickChildrenOnly>
+	<IgnoreDblClick>false</IgnoreDblClick>
+	<fade>1</fade>
+	<decButton href="" />
+	<incButton href="" />
+	<slider href="ColorSlider/ButtonSlider/ButtonSlider.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+	<slider----Button href="ButtonSlider/ButtonSlider.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+
+</WidgetGlideScrollBar>

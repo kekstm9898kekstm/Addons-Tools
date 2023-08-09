@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>dscGSliderPanel</Name>
+	<Priority>0</Priority>
+	<Children>
+		<Item href="GSlider/GSlider.(WidgetGlideSlider).xdb#xpointer(/WidgetGlideSlider)" />
+	</Children>
+	<Placement>
+		<X>
+			<Pos>0</Pos>
+			<Size>40</Size>
+		</X>
+		<Y>
+			<Pos>0</Pos>
+			<Size>300</Size>
+		</Y>
+	</Placement>
+	<Visible>true</Visible>
+
+	<Enabled>true</Enabled>
+	<TransparentInput>false</TransparentInput>
+	<PickChildrenOnly>true</PickChildrenOnly>
+	<PickObjectsOnly>true</PickObjectsOnly>
+</WidgetPanel>

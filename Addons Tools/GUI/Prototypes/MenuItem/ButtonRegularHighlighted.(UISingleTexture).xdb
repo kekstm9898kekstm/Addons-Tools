@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UISingleTexture>
+	<textureElement href="" />
+	<singleTexture href="ButtonRegularHighlighted.(UITexture).xdb#xpointer(/UITexture)" />
+	<sourceFile href="//Mods/SampleCommon/Button/ButtonRegularHighlighted.tga" />
+	<Scaling>true</Scaling>
+</UISingleTexture>

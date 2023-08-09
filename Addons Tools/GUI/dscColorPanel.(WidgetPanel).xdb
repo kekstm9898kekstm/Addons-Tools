@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>dscColorPanel</Name>
+	<BackLayer href="Textures/ColorBack.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)"/>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>128</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>276</Size>
+		</Y>
+	</Placement>
+	<TransparentInput>false</TransparentInput>
+	<PickChildrenOnly>true</PickChildrenOnly>
+	<Visible>false</Visible>
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+</WidgetPanel>

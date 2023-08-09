@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>TimePanel</Name>
+	<Children>
+		<Item href="TimeText.(WidgetTextView).xdb#xpointer(/WidgetTextView)" />
+		<Item href="Buttons/ButtonTimer/wbTimerButton.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="Buttons/ButtonTimer/wbTimerActiveButton.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+	</Children>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>120</Size>
+			<Pos>0</HighPos>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>20</Size>
+		</Y>
+	</Placement>
+
+	<reactionDblClick>at_tp_double_click</reactionDblClick>
+	<IgnoreDblClick>false</IgnoreDblClick>
+
+	<reactionOnPointing>at_tp_over</reactionOnPointing>
+	<forceReactionOnPointing>true</forceReactionOnPointing>
+
+</WidgetPanel>

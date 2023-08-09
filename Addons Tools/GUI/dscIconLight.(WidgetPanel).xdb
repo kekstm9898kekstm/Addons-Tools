@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>dscIconLight</Name>
+	<BackLayer href="_BorderBLigh.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)"/ >
+	<FrontLayer href="_BorderFLigh.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)"/ >
+	<FrontLayer href="" />
+
+	<TransparentInput>false</TransparentInput>
+	<PickChildrenOnly>true</PickChildrenOnly>
+
+	<Visible>false</Visible>
+</WidgetPanel>

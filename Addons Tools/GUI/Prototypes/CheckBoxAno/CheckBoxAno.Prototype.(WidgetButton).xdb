@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+	<Header>
+		<isPrototype>true</isPrototype>
+	</Header>
+	<Priority>256</Priority>
+	<Placement>
+		<X>
+			<Size>37</Size>
+		</X>
+		<Y>
+			<Size>37</Size>
+		</Y>
+	</Placement>
+	<IgnoreDblClick>true</IgnoreDblClick>
+	<Variants>
+		<Item>
+			<LayerHighlight href="CheckboxAnoNormalHighlighted.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			<StateNormal>
+				<LayerMain href="CheckboxAnoNormal.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			</StateNormal>
+			<StatePushed>
+				<LayerMain href="CheckboxAnoSelected.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			</StatePushed>
+			<ReactionOnUp>true</ReactionOnUp>
+			<Reaction>mouse_left_click</Reaction>
+		</Item>
+		<Item>
+			<LayerHighlight href="CheckboxAnoSelectedHighlighted.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			<StateNormal>
+				<LayerMain href="CheckboxAnoSelected.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			</StateNormal>			
+			<ReactionOnUp>true</ReactionOnUp>
+			<Reaction>mouse_left_click</Reaction>
+		</Item>
+	</Variants>
+</WidgetButton>

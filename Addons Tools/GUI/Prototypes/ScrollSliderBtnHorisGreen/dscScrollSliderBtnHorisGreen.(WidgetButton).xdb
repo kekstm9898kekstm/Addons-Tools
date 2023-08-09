@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+	<Name>dscScrollSliderBtnHorisGreen</Name>
+
+	<Priority>5</Priority>
+
+	<FrontLayer href="" />
+	<textureMask href="" />
+	<pickMask href="" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Sizing>WIDGET_SIZING_DEFAULT</Sizing>
+			<Pos>0</Pos>
+			<HighPos>0</HighPos>
+			<Size>36</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Sizing>WIDGET_SIZING_DEFAULT</Sizing>
+			<Pos>0</Pos>
+			<HighPos>0</HighPos>
+			<Size>24</Size>
+		</Y>
+	</Placement>
+
+
+	<Enabled>true</Enabled>
+	<TabOrder>0</TabOrder>
+	<bindSections />
+	<TransparentInput>false</TransparentInput>
+	<PickChildrenOnly>false</PickChildrenOnly>
+	<IgnoreDblClick>false</IgnoreDblClick>
+	<fade>1</fade>
+	<TextTag />
+	<pushingBindSections />
+	<Variants>
+
+		<Item>
+			<LayerHighlight href="ScrollSliderBtnHighlight2.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+
+			<StateNormal>
+				<LayerMain href="ScrollSliderBtnNormal.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+			</StateNormal>
+
+			<StatePushed>
+				<LayerMain href="ScrollSliderBtnPressed.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+			</StatePushed>
+
+			<StateHighlighted>
+			</StateHighlighted>
+
+			<StatePushedHighlighted>
+			</StatePushedHighlighted>
+
+			<StateDisabled>
+				<LayerMain href="ScrollSliderBtnDisabled.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+			</StateDisabled>
+
+	<ReactionOnUp>true</ReactionOnUp>
+
+	<Reaction>mouse_left_click</Reaction>
+	<ReactionRightClick>mouse_right_click</ReactionRightClick>
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+
+			<soundOver href="" />
+			<soundPress href="" />
+
+		</Item>
+
+
+	</Variants>
+	<TextStyle>
+		<multiline>false</multiline>
+		<wrapText>false</wrapText>
+		<showClippedSymbol>false</showClippedSymbol>
+		<showClippedLine>true</showClippedLine>
+		<lineSpacing>0</lineSpacing>
+		<ellipsis>false</ellipsis>
+		<Align>ALIGNY_DEFAULT</Align>
+	</TextStyle>
+	<allowDisabledReactionOver>false</allowDisabledReactionOver>
+	<useDefaultSounds>true</useDefaultSounds>
+
+	<Visible>false</Visible>
+
+</WidgetButton>

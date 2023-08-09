@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+	<Name>dscMenuItemBtn</Name>
+	<Header>
+		<Prototype href="Prototypes/MenuItem/ButtonRegular.Prototype.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+	</Header>
+
+	<BackLayer href="_ButtonEmpty.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+
+	<Variants>
+		<Item>
+			<TextFileRef href="TextMenuItem.txt" />
+
+			<Reaction>mouse_left_click</Reaction>
+			<ReactionRightClick>mouse_right_click</ReactionRightClick>
+			<reactionDblClick>mouse_double_click</reactionDblClick>
+
+		</Item>
+	</Variants>
+	<Visible>false</Visible>
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+	<IgnoreDblClick>false</IgnoreDblClick>
+
+</WidgetButton>

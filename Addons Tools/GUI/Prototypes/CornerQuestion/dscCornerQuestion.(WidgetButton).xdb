@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+	<Name>dscCornerQuestion</Name>
+	<Placement>
+		<X>
+			<Size>32</Size>
+		</X>
+		<Y>
+			<Size>32</Size>
+		</Y>
+	</Placement>
+	<Variants>
+		<Item>
+			<LayerHighlight href="CornerQuestionHighlight.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+			<PushedOffset x="0" y="0" />
+			<StateNormal>
+				<LayerMain href="CornerQuestionNormal.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+			</StateNormal>
+			<StatePushed>
+				<LayerMain href="CornerQuestionPressed.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+			</StatePushed>
+			<StateDisabled>
+			</StateDisabled>
+
+	<ReactionOnUp>true</ReactionOnUp>
+	<Reaction>mouse_left_click</Reaction>
+	<ReactionRightClick>mouse_right_click</ReactionRightClick>
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+
+		</Item>
+	</Variants>
+
+	<useDefaultSounds>true</useDefaultSounds>
+
+	<Visible>false</Visible>
+
+	<IgnoreDblClick>true</IgnoreDblClick>
+
+</WidgetButton>

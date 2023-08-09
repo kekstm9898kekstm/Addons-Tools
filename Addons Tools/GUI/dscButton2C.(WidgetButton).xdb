@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+	<Name>dscButton2C</Name>
+	<Header>
+		<Prototype href="Prototypes/Button2/Button2Cancel.Prototype.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+	</Header>
+
+	<Variants>
+		<Item>
+			<Reaction>mouse_left_click</Reaction>
+			<ReactionRightClick>mouse_right_click</ReactionRightClick>
+		</Item>
+	</Variants>
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+	<Visible>false</Visible>
+</WidgetButton>

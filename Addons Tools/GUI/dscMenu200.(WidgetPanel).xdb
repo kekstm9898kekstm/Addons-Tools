@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>dscMenu200</Name>
+
+	<BackLayer href="Frame200.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>200</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>200</Size>
+		</Y>
+	</Placement>
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+	<Visible>false</Visible>
+</WidgetPanel>

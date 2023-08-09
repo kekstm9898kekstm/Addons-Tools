@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>PhanTime</Name>
+	<Children>
+		<Item href="TimePanel/TimePanel.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="TimerPanel/TimerPanel.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+	</Children>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>120</Size>
+			<Pos>0</HighPos>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>40</Size>
+			<Pos>55</Pos>
+		</Y>
+	</Placement>
+</WidgetPanel>

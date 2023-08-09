@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+	<Name>dscButtonBlue</Name>
+	<Header>
+		<Prototype href="Prototypes/ButtonBlue/ButtonBlue.Prototype.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+	</Header>
+
+	<BackLayer href="_ButtonEmpty.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+
+	<Variants>
+		<Item>
+			<TextFileRef href="Text-alignx-center" />
+			<Reaction>mouse_left_click</Reaction>
+			<ReactionRightClick>mouse_right_click</ReactionRightClick>
+		</Item>
+	</Variants>
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+	<Visible>false</Visible>
+</WidgetButton>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>dscPanelReact</Name>
+	<BackLayer href=""/ >
+	<FrontLayer href="" />
+	<Visible>false</Visible>
+
+	<Reaction>mouse_left_click</Reaction>
+	<ReactionRightClick>mouse_right_click</ReactionRightClick>
+	<reactionDblClick>mouse_double_click</reactionDblClick>
+	<IgnoreDblClick>false</IgnoreDblClick>
+
+	<reactionOnPointing>mouse_over</reactionOnPointing>
+	<forceReactionOnPointing>false</forceReactionOnPointing>
+
+	<TransparentInput>false</TransparentInput>
+	<PickChildrenOnly>true</PickChildrenOnly>
+
+
+</WidgetPanel>
